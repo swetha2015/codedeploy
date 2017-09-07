@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is swetham 
+=======
+this is 
+>>>>>>> 5f1455110e6a3463aba3645e66a92d7c8caa63f7
 this is testing  
